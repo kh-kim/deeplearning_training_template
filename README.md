@@ -25,7 +25,7 @@ You can take a look at [sample.py](https://github.com/kh-kim/deeplearning_traini
 
 ## Sample Usage
 
-$ python sample.py
+	$ python sample.py
 
 ## Author
 
