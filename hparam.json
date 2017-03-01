@@ -1,0 +1,14 @@
+{
+	"LOSS": "categorical_crossentropy", 
+	"OPTIMIZER": "sgd", 
+	"LEARNING_RATE": 0.005,
+
+	"MAX_EPOCH": 100,
+	"BATCH_SIZE": 128, 
+	"SAMPLES_PER_EPOCH": 1024,
+	"SAMPLES_PER_TEST": 128,
+
+	"INPUT": 10,
+	"OUTPUT": 4
+}
+
